@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/address/0x0000000000000000000000000000000000001000",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain Mainnet",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "META RICH",
+  "SYMBOL": "MRNFT",
+  "MAX_SUPPLY": 5000,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Twitter",
+  "MARKETPLACE_LINK": "https://twitter.com/metarichnft",
+  "SHOW_BACKGROUND": true
+}
